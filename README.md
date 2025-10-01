@@ -2,19 +2,6 @@
 
 A comprehensive Python testing suite for REST API validation using pytest and the requests library. This project demonstrates testing best practices including positive tests, negative tests, edge cases, and integration scenarios.
 
-## 📋 Table of Contents
-
-- [Overview](#overview)
-- [Features](#features)
-- [Prerequisites](#prerequisites)
-- [Installation](#installation)
-- [Project Structure](#project-structure)
-- [Configuration](#configuration)
-- [Running Tests](#running-tests)
-- [Test Coverage](#test-coverage)
-- [Understanding the Tests](#understanding-the-tests)
-- [Contributing](#contributing)
-
 ## 🎯 Overview
 
 This project provides a complete API testing framework that validates REST API endpoints for user and post resources. It tests CRUD operations (Create, Read, Update, Delete) and includes comprehensive error handling and edge case validation.
